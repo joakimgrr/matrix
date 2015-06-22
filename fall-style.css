@@ -1,0 +1,16 @@
+@font-face {
+    font-family: matrix;
+    src: url('matrix.ttf');
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    overflow: hidden;
+}
+
+#c {
+    margin: 0;
+    padding: 0;
+}
